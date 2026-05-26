@@ -29,4 +29,4 @@ jobs:
           pip install DrissionPage requests
 
       - name: 🚀 Lancer le script d upload
-        run: python upload1.py
+        run: python upload5.py
